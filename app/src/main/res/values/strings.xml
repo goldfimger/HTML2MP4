@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HTML to MP4</string>
+    <string name="render_notification_channel_name">Render Video MP4</string>
+    <string name="render_notification_channel_desc">Menampilkan progres konversi HTML ke MP4 secara real-time</string>
+</resources>

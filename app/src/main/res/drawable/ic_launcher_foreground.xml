@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left HTML Angle Brackets </> -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,43 L24,54 L34,65"
+        android:strokeWidth="4.2"
+        android:strokeColor="#A8D1FF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M45,41 L38,67"
+        android:strokeWidth="4.0"
+        android:strokeColor="#7AB8FF"
+        android:strokeLineCap="round" />
+
+    <!-- Right MP4 Video Frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,37 L77,37 A6,6 0 0,1 83,43 L83,65 A6,6 0 0,1 77,71 L54,71 A6,6 0 0,1 48,65 L48,43 A6,6 0 0,1 54,37 Z" />
+
+    <!-- Play Triangle Inside Video Frame -->
+    <path
+        android:fillColor="#162942"
+        android:pathData="M61,46.5 L74,54 L61,61.5 Z" />
+</vector>
